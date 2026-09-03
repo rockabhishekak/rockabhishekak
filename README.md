@@ -74,7 +74,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rockabhishekak/rockabhishekak/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
 </div>
 
