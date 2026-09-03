@@ -135,8 +135,9 @@ Always learning, experimenting, and building new things.
 
 <br />
 
-build() → learn() → ship() → repeat()
 
+
+🔵 **BUILD** → 🔷 **LEARN** → 🔵 **SHIP** → 🔷 **REPEAT**
 
 
 </div>
