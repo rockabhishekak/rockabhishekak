@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="220" viewBox="0 0 560 220" role="img">
+<defs><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffe25b"/><stop offset=".5" stop-color="#ff9f43"/><stop offset="1" stop-color="#ff55d6"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".7"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<filter id="g" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<style>.sans{font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}</style></defs>
+<rect x="4" y="4" width="552" height="212" rx="24" fill="#0b102a" stroke="#ff63d8" stroke-width="2"/>
+<text class="sans" x="28" y="32" font-size="13" fill="#ffd873" font-weight="900" letter-spacing="2">TROPHY CELLS</text>
+<text class="sans" x="28" y="50" font-size="10.5" fill="#92a6db">small wins that keep the build loop moving</text>
+<g><circle cx="120" cy="103" r="30" fill="#151b3a" stroke="url(#gold)" stroke-width="2" filter="url(#g)"><animate attributeName="r" values="22;30" dur=".65s" begin="0.12s" fill="freeze"/></circle>
+<path d="M112 110 h16 v-17 h-5 l-3 -8 l-3 8 h-5 z" fill="url(#gold)"><animate attributeName="opacity" values="0;1" dur=".5s" begin="0.22s" fill="freeze"/></path>
+<text class="sans" x="120" y="144" font-size="8.5" fill="#ffd873" text-anchor="middle" font-weight="900">#01 CODE</text>
+<animate attributeName="opacity" values="0;1" dur=".6s" begin="0.12s" fill="freeze"/></g><g><circle cx="280" cy="103" r="30" fill="#151b3a" stroke="url(#gold)" stroke-width="2" filter="url(#g)"><animate attributeName="r" values="22;30" dur=".65s" begin="0.24s" fill="freeze"/></circle>
+<path d="M272 110 h16 v-17 h-5 l-3 -8 l-3 8 h-5 z" fill="url(#gold)"><animate attributeName="opacity" values="0;1" dur=".5s" begin="0.34s" fill="freeze"/></path>
+<text class="sans" x="280" y="144" font-size="8.5" fill="#ffd873" text-anchor="middle" font-weight="900">#02 BUILD</text>
+<animate attributeName="opacity" values="0;1" dur=".6s" begin="0.24s" fill="freeze"/></g><g><circle cx="440" cy="103" r="30" fill="#151b3a" stroke="url(#gold)" stroke-width="2" filter="url(#g)"><animate attributeName="r" values="22;30" dur=".65s" begin="0.36s" fill="freeze"/></circle>
+<path d="M432 110 h16 v-17 h-5 l-3 -8 l-3 8 h-5 z" fill="url(#gold)"><animate attributeName="opacity" values="0;1" dur=".5s" begin="0.46s" fill="freeze"/></path>
+<text class="sans" x="440" y="144" font-size="8.5" fill="#ffd873" text-anchor="middle" font-weight="900">#03 SHIP</text>
+<animate attributeName="opacity" values="0;1" dur=".6s" begin="0.36s" fill="freeze"/></g><g><circle cx="120" cy="169" r="30" fill="#151b3a" stroke="url(#gold)" stroke-width="2" filter="url(#g)"><animate attributeName="r" values="22;30" dur=".65s" begin="0.48s" fill="freeze"/></circle>
+<path d="M112 176 h16 v-17 h-5 l-3 -8 l-3 8 h-5 z" fill="url(#gold)"><animate attributeName="opacity" values="0;1" dur=".5s" begin="0.58s" fill="freeze"/></path>
+<text class="sans" x="120" y="210" font-size="8.5" fill="#ffd873" text-anchor="middle" font-weight="900">#04 LEARN</text>
+<animate attributeName="opacity" values="0;1" dur=".6s" begin="0.48s" fill="freeze"/></g><g><circle cx="280" cy="169" r="30" fill="#151b3a" stroke="url(#gold)" stroke-width="2" filter="url(#g)"><animate attributeName="r" values="22;30" dur=".65s" begin="0.60s" fill="freeze"/></circle>
+<path d="M272 176 h16 v-17 h-5 l-3 -8 l-3 8 h-5 z" fill="url(#gold)"><animate attributeName="opacity" values="0;1" dur=".5s" begin="0.70s" fill="freeze"/></path>
+<text class="sans" x="280" y="210" font-size="8.5" fill="#ffd873" text-anchor="middle" font-weight="900">#05 OPEN</text>
+<animate attributeName="opacity" values="0;1" dur=".6s" begin="0.60s" fill="freeze"/></g><g><circle cx="440" cy="169" r="30" fill="#151b3a" stroke="url(#gold)" stroke-width="2" filter="url(#g)"><animate attributeName="r" values="22;30" dur=".65s" begin="0.72s" fill="freeze"/></circle>
+<path d="M432 176 h16 v-17 h-5 l-3 -8 l-3 8 h-5 z" fill="url(#gold)"><animate attributeName="opacity" values="0;1" dur=".5s" begin="0.82s" fill="freeze"/></path>
+<text class="sans" x="440" y="210" font-size="8.5" fill="#ffd873" text-anchor="middle" font-weight="900">#06 GROW</text>
+<animate attributeName="opacity" values="0;1" dur=".6s" begin="0.72s" fill="freeze"/></g><rect x="0" y="55" width="130" height="190" fill="url(#shine)" opacity=".25" transform="skewX(-14)"><animateTransform attributeName="transform" type="translate" values="-720 0;620 0;620 0" dur="4.5s" begin="1.8s" repeatCount="indefinite" additive="sum"/></rect></svg>

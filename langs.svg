@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="220" viewBox="0 0 560 220" role="img">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#42d9ff"/><stop offset=".5" stop-color="#6b67ff"/><stop offset="1" stop-color="#c052ff"/></linearGradient>
+<style>.sans{font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}</style></defs>
+<rect x="4" y="4" width="552" height="212" rx="24" fill="#0b102a" stroke="#8b63ff" stroke-width="2"/>
+<text class="sans" x="28" y="37" font-size="13" fill="#92a6db" font-weight="800" letter-spacing="2">LANGUAGES I USE</text>
+<text class="sans" x="28" y="58" font-size="11" fill="#55ddff">listed stack • visual map, not skill percentages</text>
+<g opacity="1"><animate attributeName="opacity" values="0;1" dur=".55s" begin="0.10s" fill="freeze"/>
+<text class="sans" x="28" y="86" font-size="11" fill="#eef2ff">JavaScript</text>
+<rect x="112" y="82" width="390" height="8" rx="4" fill="#1d2752"/>
+<g transform="translate(112 86) scale(1 1)"><rect x="0" y="-4" width="360" height="8" rx="4" fill="url(#g)"><animateTransform attributeName="transform" type="scale" from="0 1" to="1 1" dur="1.3s" begin="0.20s" fill="freeze"/></rect></g></g><g opacity="1"><animate attributeName="opacity" values="0;1" dur=".55s" begin="0.18s" fill="freeze"/>
+<text class="sans" x="28" y="104" font-size="11" fill="#eef2ff">TypeScript</text>
+<rect x="112" y="100" width="390" height="8" rx="4" fill="#1d2752"/>
+<g transform="translate(112 104) scale(1 1)"><rect x="0" y="-4" width="350" height="8" rx="4" fill="url(#g)"><animateTransform attributeName="transform" type="scale" from="0 1" to="1 1" dur="1.3s" begin="0.28s" fill="freeze"/></rect></g></g><g opacity="1"><animate attributeName="opacity" values="0;1" dur=".55s" begin="0.26s" fill="freeze"/>
+<text class="sans" x="28" y="122" font-size="11" fill="#eef2ff">Python</text>
+<rect x="112" y="118" width="390" height="8" rx="4" fill="#1d2752"/>
+<g transform="translate(112 122) scale(1 1)"><rect x="0" y="-4" width="316" height="8" rx="4" fill="url(#g)"><animateTransform attributeName="transform" type="scale" from="0 1" to="1 1" dur="1.3s" begin="0.36s" fill="freeze"/></rect></g></g><g opacity="1"><animate attributeName="opacity" values="0;1" dur=".55s" begin="0.34s" fill="freeze"/>
+<text class="sans" x="28" y="140" font-size="11" fill="#eef2ff">C</text>
+<rect x="112" y="136" width="390" height="8" rx="4" fill="#1d2752"/>
+<g transform="translate(112 140) scale(1 1)"><rect x="0" y="-4" width="278" height="8" rx="4" fill="url(#g)"><animateTransform attributeName="transform" type="scale" from="0 1" to="1 1" dur="1.3s" begin="0.44s" fill="freeze"/></rect></g></g><g opacity="1"><animate attributeName="opacity" values="0;1" dur=".55s" begin="0.42s" fill="freeze"/>
+<text class="sans" x="28" y="158" font-size="11" fill="#eef2ff">C++</text>
+<rect x="112" y="154" width="390" height="8" rx="4" fill="#1d2752"/>
+<g transform="translate(112 158) scale(1 1)"><rect x="0" y="-4" width="278" height="8" rx="4" fill="url(#g)"><animateTransform attributeName="transform" type="scale" from="0 1" to="1 1" dur="1.3s" begin="0.52s" fill="freeze"/></rect></g></g><g opacity="1"><animate attributeName="opacity" values="0;1" dur=".55s" begin="0.50s" fill="freeze"/>
+<text class="sans" x="28" y="176" font-size="11" fill="#eef2ff">Java</text>
+<rect x="112" y="172" width="390" height="8" rx="4" fill="#1d2752"/>
+<g transform="translate(112 176) scale(1 1)"><rect x="0" y="-4" width="278" height="8" rx="4" fill="url(#g)"><animateTransform attributeName="transform" type="scale" from="0 1" to="1 1" dur="1.3s" begin="0.60s" fill="freeze"/></rect></g></g><g opacity="1"><animate attributeName="opacity" values="0;1" dur=".55s" begin="0.58s" fill="freeze"/>
+<text class="sans" x="28" y="194" font-size="11" fill="#eef2ff">SQL</text>
+<rect x="112" y="190" width="390" height="8" rx="4" fill="#1d2752"/>
+<g transform="translate(112 194) scale(1 1)"><rect x="0" y="-4" width="316" height="8" rx="4" fill="url(#g)"><animateTransform attributeName="transform" type="scale" from="0 1" to="1 1" dur="1.3s" begin="0.68s" fill="freeze"/></rect></g></g></svg>

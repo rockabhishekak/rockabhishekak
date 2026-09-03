@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="220" viewBox="0 0 560 220" role="img">
+<defs>
+ <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#42d9ff"/><stop offset=".5" stop-color="#6b67ff"/><stop offset="1" stop-color="#c052ff"/></linearGradient>
+ <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <style>.sans{font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif} .mono{font-family:ui-monospace,monospace}</style>
+</defs>
+<rect x="4" y="4" width="552" height="212" rx="24" fill="#0b102a" stroke="#5369ff" stroke-width="2"/>
+<text class="sans" x="28" y="36" font-size="13" fill="#92a6db" font-weight="800" letter-spacing="2">PROFILE STATS</text>
+<text class="mono" x="226" y="57" font-size="11" fill="#55ddff">rockabhishekak // live snapshot</text>
+<circle cx="120" cy="126" r="80" fill="none" stroke="#20284d" stroke-width="10"/>
+<circle cx="120" cy="126" r="80" fill="none" stroke="url(#g)" stroke-width="10" stroke-linecap="round" stroke-dasharray="510" stroke-dashoffset="78" transform="rotate(-90 120 126)" filter="url(#glow)">
+ <animate attributeName="stroke-dashoffset" values="510;78" dur="1.8s" fill="freeze"/>
+</circle>
+<text class="sans" x="120" y="119" text-anchor="middle" font-size="29" fill="#f8fbff" font-weight="900">A</text>
+<text class="mono" x="120" y="140" text-anchor="middle" font-size="10" fill="#8ca0d8">DEV RANK</text>
+<g class="sans" font-size="13" fill="#e9eeff">
+<g opacity="1">
+      <animateTransform attributeName="transform" type="translate" values="-20 0;0 0" dur=".65s" begin="0.15s" fill="freeze"/>
+      <animate attributeName="opacity" values="0;1" dur=".65s" begin="0.15s" fill="freeze"/>
+      <text x="226" y="91">Repositories</text><text x="507" y="91" text-anchor="end" font-weight="900">19</text>
+      <rect x="226" y="100" width="280" height="5" rx="2.5" fill="#1c2755"/><rect x="226" y="100" width="194" height="5" rx="2.5" fill="url(#g)"/>
+    </g><g opacity="1">
+      <animateTransform attributeName="transform" type="translate" values="-20 0;0 0" dur=".65s" begin="0.35s" fill="freeze"/>
+      <animate attributeName="opacity" values="0;1" dur=".65s" begin="0.35s" fill="freeze"/>
+      <text x="226" y="127">Stars</text><text x="507" y="127" text-anchor="end" font-weight="900">18</text>
+      <rect x="226" y="136" width="280" height="5" rx="2.5" fill="#1c2755"/><rect x="226" y="136" width="184" height="5" rx="2.5" fill="url(#g)"/>
+    </g><g opacity="1">
+      <animateTransform attributeName="transform" type="translate" values="-20 0;0 0" dur=".65s" begin="0.55s" fill="freeze"/>
+      <animate attributeName="opacity" values="0;1" dur=".65s" begin="0.55s" fill="freeze"/>
+      <text x="226" y="163">Followers</text><text x="507" y="163" text-anchor="end" font-weight="900">5</text>
+      <rect x="226" y="172" width="280" height="5" rx="2.5" fill="#1c2755"/><rect x="226" y="172" width="102" height="5" rx="2.5" fill="url(#g)"/>
+    </g><g opacity="1"><animateTransform attributeName="transform" type="translate" values="-20 0;0 0" dur=".65s" begin=".75s" fill="freeze"/><animate attributeName="opacity" values="0;1" dur=".65s" begin=".75s" fill="freeze"/>
+<text x="226" y="199">Contributions / year</text><text x="507" y="199" text-anchor="end" font-weight="900">474</text></g></g></svg>
