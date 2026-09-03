@@ -102,7 +102,7 @@ JavaScript
 
 build() → learn() → ship() → repeat()
 
-Made with 💙, purple pixels, and a lot of curiosity.
+
 
 </div>
 
