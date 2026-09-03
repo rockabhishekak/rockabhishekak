@@ -1,17 +1,17 @@
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./banner.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg" />
     <img src="./banner.svg" alt="Animated Abhishek Kumar banner" width="100%" />
   </picture>
-</div>
+</div> -->
 
 <h1 align="center">👋 Hi, I'm Abhishek Kumar</h1>
 <h3 align="center">Full Stack Developer • Code. Coffee. Repeat.</h3>
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://github.com/user-attachments/assets/4440adfd-649e-45f3-b8f5-389200a1aab1" alt="Abhishek profile style image" width="420" />
-</p> -->
+</p> 
 
 <p align="center">
   <a href="https://github.com/rockabhishekak"><img src="https://img.shields.io/badge/GitHub-rockabhishekak-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
