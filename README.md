@@ -1,27 +1,97 @@
-# 💫 About Me:
-🌱 I’m currently learning full stack development <br>
+<div align="center">
 
+<!-- Wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=180&section=header&text=Abhishek%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20Progress&descAlignY=58&descSize=18" width="100%" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rockabhishekak/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekji7631@gmail.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Abhishek+%F0%9F%91%8B;Full+Stack+Developer+in+Progress;Currently+Learning+Full+Stack+Development;Welcome+to+my+GitHub+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rockabhishekak&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rockabhishekak&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rockabhishekak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
+
+<br>
+
+## 💫 About Me
+
+- 🌱 I'm currently learning full stack development
+- 💻 I love building things with **JavaScript, Python & the web**
+- 🎯 Focusing on leveling up my dev skills, one project at a time
+- 📫 Always open to connecting — reach out below!
+
+<br>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/rockabhishekak/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:abhishekji7631@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,py,mysql,git,github,selenium,notion,figma&theme=dark" />
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rockabhishekak&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rockabhishekak&theme=dark&hide_border=false" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockabhishekak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rockabhishekak/rockabhishekak/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+<br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rockabhishekak&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rockabhishekak&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" />
+
+</div>
+
+<br>
+
+<div align="center">
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rockabhishekak&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
----
-[![](https://visitcount.itsvg.in/api?id=rockabhishekak&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=rockabhishekak&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=100&section=footer" width="100%" />
+
+</div>
