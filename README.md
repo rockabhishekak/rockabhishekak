@@ -48,9 +48,7 @@ React.js Node.js Express.js PostgreSQL MongoDB Git GitHub Postman Vercel Render
 
 <div align="center">
   <img src="./activity.svg?v=1" alt="Local contribution activity graph" width="96%">
-</div>
-
-## 🧩 Projects
+## 🧩 Featured Projects
 
 <div align="center">
 
@@ -58,23 +56,27 @@ React.js Node.js Express.js PostgreSQL MongoDB Git GitHub Postman Vercel Render
 <tr>
 <td width="50%">
 
-### 🌐 INT219_FrontEnd_Developer
+### 🌱 MITTI KI BAAT
 
-Front-end coursework and hands-on projects built with modern web fundamentals.
+A project focused on **Mitti Ki Baat**, built to bring the idea and experience of the project to the web.
 
-**Stack:**  
+**Tech Stack:**
 `HTML` · `CSS` · `JavaScript`
+
+🔗 **[View Project →](https://github.com/rockabhishekak/MITTI_KI_BAAT)**
 
 </td>
 
 <td width="50%">
 
-### ⚙️ Node.js
+### 💼 Personal Portfolio
 
-A collection of classroom exercises and backend development practice.
+My personal developer portfolio showcasing my **skills, projects, experience, and web development journey**.
 
-**Stack:**  
-`JavaScript` · `Node.js`
+**Tech Stack:**
+`HTML` · `CSS` · `JavaScript`
+
+🔗 **[View Portfolio →](#)**
 
 </td>
 </tr>
@@ -82,29 +84,32 @@ A collection of classroom exercises and backend development practice.
 <tr>
 <td width="50%">
 
-### 💼 Portfolio
+### 🖥️ Operating Systems Project
 
-Personal portfolio project showcasing my development skills and projects.
+An academic project focused on **Operating Systems concepts and implementation**.
 
-**Stack:**  
-`JavaScript`
+**Tech Stack:**
+`C / C++` · `Operating Systems`
+
+🔗 **[View Project →](https://github.com/rockabhishekak/Operating_Systems_Project)**
 
 </td>
 
 <td width="50%">
 
-### 🚀 More Coming Soon
+### 🚀 More Projects
 
-Currently working on new projects and experiments.
+Always learning, experimenting, and building new things.
 
-**Status:**  
-`Building...` · `Learning...`
+**Status:**
+`Learning` · `Building` · `Improving`
 
 </td>
 </tr>
 </table>
 
 </div>
+
 
 🐍 Contribution animation
 
