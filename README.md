@@ -49,10 +49,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rockabhishekak&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=rockabhishekak&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /> -->
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rockabhishekak&theme=dark&hide_border=false" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockabhishekak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockabhishekak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> -->
 
 </div>
 
@@ -72,7 +72,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rockabhishekak&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=rockabhishekak&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" /> -->
 
 </div>
 
@@ -80,7 +80,7 @@
 
 <div align="center">
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
