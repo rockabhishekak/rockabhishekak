@@ -1,31 +1,115 @@
-<!-- <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./banner.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg" />
-    <img src="./banner.svg" alt="Animated Abhishek Kumar banner" width="100%" />
-  </picture>
-</div> -->
+<div align="center">
 
-<h1 align="center">👋 Hi, I'm Abhishek Kumar</h1>
-<h3 align="center">Full Stack Developer • Code. Coffee. Repeat.</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
+  <img src="./banner.svg?v=1" alt="Animated Abhishek Kumar — Full Stack Developer" width="100%">
+</picture>
 
- <p align="center">
-  <img src="https://github.com/user-attachments/assets/4440adfd-649e-45f3-b8f5-389200a1aab1" alt="Abhishek profile style image" width="420" />
-</p> 
+<br />
 
-<p align="center">
-  <a href="https://github.com/rockabhishekak"><img src="https://img.shields.io/badge/GitHub-rockabhishekak-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="mailto:abhishekji7631@gmail.com"><img src="https://img.shields.io/badge/Email-abhishekji7631%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="./lanyard.svg?v=1" alt="Swinging Abhishek Kumar developer lanyard" width="380">
+
+👋 Hi, I'm Abhishek Kumar
+
+Full stack developer · fun with code · @rockabhishekak
+
+
+
+
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rockabhishekak&style=for-the-badge&color=6b5cff&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
-## 🚀 About Me
-- 💻 I build modern full-stack web applications.
-- 🌱 Always learning new technologies and improving problem-solving.
-- ⚡ Motto: **Learn → Build → Repeat**
+</div>
 
-## 🧠 Tech Stack
-### Languages
-JavaScript · TypeScript · Python · C · C++ · Java · SQL
+🚀 What I build
 
-### Frameworks & Tools
-React.js · Node.js · Express.js · PostgreSQL · MongoDB · Git · GitHub · Postman · Vercel · Render
+I enjoy turning ideas into clean, practical web experiences and learning by shipping. My current public stack spans JavaScript, TypeScript, Python, C, C++, Java, SQL, React.js, Node.js, Express.js, PostgreSQL, MongoDB, Git, GitHub, Postman, Vercel, and Render.
+
+🧠 Stack
+
+Languages
+
+JavaScript TypeScript Python C C++ Java SQL
+
+Tools / Platforms
+
+React.js Node.js Express.js PostgreSQL MongoDB Git GitHub Postman Vercel Render
+
+<div align="center">
+  <img src="./stats.svg?v=1" alt="Local GitHub profile stats card" width="31.5%">
+  <img src="./langs.svg?v=1" alt="Local language card" width="31.5%">
+  <img src="./trophies.svg?v=1" alt="Local trophy card" width="31.5%">
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./activity.svg?v=1" alt="Local contribution activity graph" width="96%">
+</div>
+
+🧩 Projects
+
+Project
+
+What it is
+
+Stack
+
+INT219_FrontEnd_Developer
+
+Front-end coursework and HTML/CSS/JS work
+
+HTML · CSS · JavaScript
+
+Node.js
+
+Node.js classroom code collection
+
+JavaScript · Node.js
+
+Portfolio
+
+Personal portfolio project
+
+JavaScript
+
+🐍 Contribution animation
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rockabhishekak/rockabhishekak/output/github-snake-dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rockabhishekak/rockabhishekak/output/github-snake.svg?v=1">
+  <img src="https://raw.githubusercontent.com/rockabhishekak/rockabhishekak/output/github-snake.svg?v=1" alt="GitHub contribution snake animation" width="96%">
+</picture>
+
+</div>
+
+🔗 Connect
+
+<div align="center">
+  <a href="https://github.com/rockabhishekak"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/akabhishekak/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:abhishekji7631@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail" alt="Email"></a>
+</div>
+
+<div align="center">
+
+<br />
+
+build() → learn() → ship() → repeat()
+
+Made with 💙, purple pixels, and a lot of curiosity.
+
+</div>
+
+<!--
+GitHub profile snapshot used while generating this README:
+- username: rockabhishekak
+- display name: Abhishek kumar
+- role: Full stack developer
+- public stats: 19 repositories, 18 stars, 5 followers, 474 contributions in the last year
+-->
