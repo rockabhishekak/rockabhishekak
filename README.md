@@ -50,31 +50,61 @@ React.js Node.js Express.js PostgreSQL MongoDB Git GitHub Postman Vercel Render
   <img src="./activity.svg?v=1" alt="Local contribution activity graph" width="96%">
 </div>
 
-🧩 Projects
+## 🧩 Projects
 
-Project
+<div align="center">
 
-What it is
+<table>
+<tr>
+<td width="50%">
 
-Stack
+### 🌐 INT219_FrontEnd_Developer
 
-INT219_FrontEnd_Developer
+Front-end coursework and hands-on projects built with modern web fundamentals.
 
-Front-end coursework and HTML/CSS/JS work
+**Stack:**  
+`HTML` · `CSS` · `JavaScript`
 
-HTML · CSS · JavaScript
+</td>
 
-Node.js
+<td width="50%">
 
-Node.js classroom code collection
+### ⚙️ Node.js
 
-JavaScript · Node.js
+A collection of classroom exercises and backend development practice.
 
-Portfolio
+**Stack:**  
+`JavaScript` · `Node.js`
 
-Personal portfolio project
+</td>
+</tr>
 
-JavaScript
+<tr>
+<td width="50%">
+
+### 💼 Portfolio
+
+Personal portfolio project showcasing my development skills and projects.
+
+**Stack:**  
+`JavaScript`
+
+</td>
+
+<td width="50%">
+
+### 🚀 More Coming Soon
+
+Currently working on new projects and experiments.
+
+**Status:**  
+`Building...` · `Learning...`
+
+</td>
+</tr>
+</table>
+
+</div>
 
 🐍 Contribution animation
 
